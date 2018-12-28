@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- X方向上的位移 -->
+    <attr name="translationXIn" format="float"/>
+    <attr name="translationXOut" format="float"/>
+
+    <!-- Y方向上的位移 -->
+    <attr name="translationYIn" format="float"/>
+    <attr name="translationYOut" format="float"/>
+
+    <!--透明度的变化-->
+    <attr name="alpha" format="float"/>
+
+    <!-- X方向上的大小变化 -->
+    <attr name="scaleXIn" format="float"/>
+    <attr name="scaleXOut" format="float"/>
+
+    <!-- Y方向上的大小变化 -->
+    <attr name="scaleYIn" format="float"/>
+    <attr name="scaleYOut" format="float"/>
+</resources>
